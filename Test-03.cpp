@@ -46,9 +46,4 @@ int main() {
 // #include <iostream>
 >>>>>>> sjna_Test
 
-<<<<<<< HEAD
 // cat Modified
-=======
-// sjna - 2021-10-06
-
->>>>>>> sjna_Test
